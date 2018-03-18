@@ -1,8 +1,0 @@
-C:\Source\edX\Course 001\Labs\015\Final Project\WorldWebServer\bin\Debug\netcoreapp1.1\WorldWebServer.deps.json
-C:\Source\edX\Course 001\Labs\015\Final Project\WorldWebServer\bin\Debug\netcoreapp1.1\WorldWebServer.runtimeconfig.json
-C:\Source\edX\Course 001\Labs\015\Final Project\WorldWebServer\bin\Debug\netcoreapp1.1\WorldWebServer.runtimeconfig.dev.json
-C:\Source\edX\Course 001\Labs\015\Final Project\WorldWebServer\bin\Debug\netcoreapp1.1\WorldWebServer.dll
-C:\Source\edX\Course 001\Labs\015\Final Project\WorldWebServer\bin\Debug\netcoreapp1.1\WorldWebServer.pdb
-C:\Source\edX\Course 001\Labs\015\Final Project\WorldWebServer\obj\Debug\netcoreapp1.1\WorldWebServer.AssemblyInfo.cs
-C:\Source\edX\Course 001\Labs\015\Final Project\WorldWebServer\obj\Debug\netcoreapp1.1\WorldWebServer.dll
-C:\Source\edX\Course 001\Labs\015\Final Project\WorldWebServer\obj\Debug\netcoreapp1.1\WorldWebServer.pdb

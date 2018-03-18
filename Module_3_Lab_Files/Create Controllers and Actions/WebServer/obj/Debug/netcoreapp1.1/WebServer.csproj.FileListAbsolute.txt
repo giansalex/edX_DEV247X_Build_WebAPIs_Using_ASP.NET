@@ -1,8 +1,0 @@
-C:\Source\edX\Course 001\Labs\006\Create Controllers and Actions\WebServer\bin\Debug\netcoreapp1.1\WebServer.deps.json
-C:\Source\edX\Course 001\Labs\006\Create Controllers and Actions\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.json
-C:\Source\edX\Course 001\Labs\006\Create Controllers and Actions\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.dev.json
-C:\Source\edX\Course 001\Labs\006\Create Controllers and Actions\WebServer\bin\Debug\netcoreapp1.1\WebServer.dll
-C:\Source\edX\Course 001\Labs\006\Create Controllers and Actions\WebServer\bin\Debug\netcoreapp1.1\WebServer.pdb
-C:\Source\edX\Course 001\Labs\006\Create Controllers and Actions\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfo.cs
-C:\Source\edX\Course 001\Labs\006\Create Controllers and Actions\WebServer\obj\Debug\netcoreapp1.1\WebServer.dll
-C:\Source\edX\Course 001\Labs\006\Create Controllers and Actions\WebServer\obj\Debug\netcoreapp1.1\WebServer.pdb

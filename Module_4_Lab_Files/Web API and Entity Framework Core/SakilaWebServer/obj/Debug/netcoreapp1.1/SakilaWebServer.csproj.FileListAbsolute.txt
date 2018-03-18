@@ -1,8 +1,0 @@
-C:\Source\edX\Course 001\Labs\012\Web API and Entity Framework Core\SakilaWebServer\bin\Debug\netcoreapp1.1\SakilaWebServer.deps.json
-C:\Source\edX\Course 001\Labs\012\Web API and Entity Framework Core\SakilaWebServer\bin\Debug\netcoreapp1.1\SakilaWebServer.runtimeconfig.json
-C:\Source\edX\Course 001\Labs\012\Web API and Entity Framework Core\SakilaWebServer\bin\Debug\netcoreapp1.1\SakilaWebServer.runtimeconfig.dev.json
-C:\Source\edX\Course 001\Labs\012\Web API and Entity Framework Core\SakilaWebServer\bin\Debug\netcoreapp1.1\SakilaWebServer.dll
-C:\Source\edX\Course 001\Labs\012\Web API and Entity Framework Core\SakilaWebServer\bin\Debug\netcoreapp1.1\SakilaWebServer.pdb
-C:\Source\edX\Course 001\Labs\012\Web API and Entity Framework Core\SakilaWebServer\obj\Debug\netcoreapp1.1\SakilaWebServer.AssemblyInfo.cs
-C:\Source\edX\Course 001\Labs\012\Web API and Entity Framework Core\SakilaWebServer\obj\Debug\netcoreapp1.1\SakilaWebServer.dll
-C:\Source\edX\Course 001\Labs\012\Web API and Entity Framework Core\SakilaWebServer\obj\Debug\netcoreapp1.1\SakilaWebServer.pdb
