@@ -1,5 +1,5 @@
 # Build
-FROM microsoft/aspnetcore-build:2.0 AS builder
+FROM microsoft/aspnetcore-build AS builder
 
 WORKDIR /source
 COPY *.csproj .
@@ -8,7 +8,7 @@ COPY . .
 RUN dotnet publish --output /app/ --configuration Release
 
 # Run
-FROM microsoft/aspnetcore:2.0
+FROM microsoft/aspnetcore
 WORKDIR /app
 COPY --from=builder /app .
 EXPOSE 5000
