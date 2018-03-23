@@ -11,7 +11,7 @@ namespace SakilaWebServer.Controllers {
         private SakilaDbContext dbContext;
         
         public ActorsController() {
-            string connectionString = "server=localhost;port=3306;database=sakila;userid=root;pwd=123456;sslmode=none";
+            string connectionString = "server=localhost;port=3306;database=sakila;userid=root;pwd=;sslmode=none";
             dbContext = SakilaDbContextFactory.Create(connectionString);
         }
 
